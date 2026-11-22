@@ -38,3 +38,54 @@ header {
     border: 1px solid grey;
     background-color: white;
 }
+
+
+.s1 {
+    width: 90%;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.left2 h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+}
+.left2 p {
+    color: grey;
+    font-size: 22px;
+    margin-top: 30px;
+}
+.ml {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+}
+.m {
+    margin-top: 60px;
+}
+.ln1 {
+    display: flex;
+    gap: 10px;
+}
+.ln1 i {
+    color: grey;
+}
+.ln1 p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.sbtn {
+    width: 42px;
+    height: 30px;
+    background-color: #3771C8;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+}
