@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 300px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.left1 {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+}
+.left1 p {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.right1 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.right1 p {
+    font-family: sans-serif;
+}
+.right1 img {
+    padding-left: 30px;
+}
+.right1 button {
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    background-color: white;
+}
