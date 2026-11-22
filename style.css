@@ -58,6 +58,7 @@ header {
 .left2 p {
     color: grey;
     font-size: 22px;
+    font-family: sans-serif;
     margin-top: 30px;
 }
 .ml {
@@ -88,4 +89,23 @@ header {
     text-align: center;
     padding-top: 10px;
     border-radius: 5px;
+}
+
+
+.s11 {
+    width: 90%;
+    display: flex;
+    gap: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.s11 h1 {
+    color: white;
+    font-family: sans-serif;
+    font-size: 48px;
+    margin-top: -110px;
+    text-align: center;
+}
+#a1 {
+    margin-top: 10px;
 }
