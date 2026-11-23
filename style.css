@@ -248,3 +248,86 @@ header {
 }
 
 
+.s6 {
+    width: 90%;
+    margin-left: 80px;
+    margin-top: -80px;
+}
+.s6 h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-top: 200px;
+}
+.s6 p {
+    font-family: sans-serif;
+    font-size: 17px;
+    color: grey;
+    margin-top: 20px;
+}
+.ln2 {
+    display: flex;
+    justify-content: space-between;
+}
+.left5 {
+    display: flex;
+    gap: 30px;
+}
+.blk1 {
+    width: 90px;
+    height: 23px;
+    text-align: center;
+    padding-top: 5px;
+    border: 1px solid rgb(189, 189, 189);
+    font-family: sans-serif;
+    font-size: 15px;
+    border-radius: 8px;
+}
+.s66 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+.blk2 {
+    width: 27%;
+    border-radius: 20px;
+    border: 1px solid rgb(187, 186, 186);
+}
+.blk2 h3 {
+    font-family: sans-serif;
+    padding: 10px;
+}
+.blk2 p {
+    font-family: sans-serif;
+    color: grey;
+    padding: 2px 10px;
+}
+.blk2 h4 {
+    font-family: sans-serif;
+    font-size: 22px;
+    padding: 30px 10px 15px 10px;
+    color: #3771C8;
+}
+.blk2 span {
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(57, 57, 57);
+    font-weight: 100;
+}
+.ln3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ln3 button {
+    width: 80px;
+    height: 30px;
+    border: none;
+    margin-right: 15px;
+    text-align: center;
+    color: white;
+    background-color: #3771C8;
+    border-radius: 5px;
+}
+
+
