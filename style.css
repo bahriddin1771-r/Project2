@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-body {
-    height: 10000px;
-}
 header {
     width: 90%;
     display: flex;
@@ -291,7 +288,7 @@ header {
 .blk2 {
     width: 27%;
     border-radius: 20px;
-    border: 1px solid rgb(187, 186, 186);
+    border: 1px solid rgb(221, 219, 219);
 }
 .blk2 h3 {
     font-family: sans-serif;
@@ -359,13 +356,13 @@ header {
     margin-top: 140px;
 }
 .ln4 input {
-    padding: 10px;
+    padding: 15px;
     width: 300px;
     border-radius: 50px;
     border: none;
 }
 .ln4 button {
-    padding: 10px;
+    padding: 15px;
     width: 100px;
     background-color: #3771C8;
     color: white;
@@ -375,3 +372,34 @@ header {
 }
 
 
+footer {
+    display: flex;
+    justify-content: center;
+    gap: 160px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.line1 {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+}
+.line1 p {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.a5 {
+    font-family: sans-serif;
+    color: grey;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.line2 {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+.aa {
+    font-size: 16px;
+    color: rgb(73, 72, 72);
+}
